@@ -24,6 +24,10 @@
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?style=flat-square&logo=azure-devops&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+### Check this game that I created 😃
+#### Sea Sweepers
+[![Sea Sweepers](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://sea-sweepers.pudin.net/)
+
 ### Let's Connect!
 
 [![Website](https://img.shields.io/badge/-Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dgentner.carrd.co/)
