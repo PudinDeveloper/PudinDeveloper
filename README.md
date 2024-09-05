@@ -4,7 +4,7 @@
 
 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/PudinDeveloper/)
 
-📫 You can also email me at [diegoalejandropolanco@gmail.com](mailto:diegoalejandropolanco@gmail.com) or at [diego@pudin.net](mailto:diego@pudin.net)
+📫 You can also email me at [diegoalejandropolanco@gmail.com](mailto:diegoalejandropolanco@gmail.com)
 
 ⚡ Fun fact: I'm also passionate about technology and love exploring new places and people to create a better world.
 
